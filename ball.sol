@@ -1,3 +1,5 @@
+//Fred Schebesta 20th January 2017 - the baller token
+
 pragma solidity ^0.4.16;
 
 contract MyToken {
